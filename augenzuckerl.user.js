@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name		Augenzuckerl
-// @version		1.0.0
+// @version		1.0.1
 // @author		holzmaster
 // @namespace	holzmaster
 // @include		http://pr0gramm.com*
@@ -29,7 +29,7 @@ addGlobalStyle(`
 }
 @supports(backdrop-filter: blur()) {
 	#head {
-		background-color: rgba(22, 22, 24, 0.55);
+		background-color: rgba(0, 0, 0, 0.55);
 		backdrop-filter: blur(30px);
 	}
 	@media only screen and (min-width: 600px) {
