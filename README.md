@@ -4,6 +4,7 @@ Ein bisschen eye candy für das pr0gramm.
 ![Preview](https://holzmaster.github.io/augenzuckerl/augenzuckerl.webp)
 
 ## Installation
+Braucht Chrome oder Firefox 70+ mit `layout.css.backdrop-filter.enabled` auf `true`.
 1. Browser einrichten
   - Firefox benötigt [Greasemonkey](https://addons.mozilla.org/de/firefox/addon/greasemonkey/).
   - Chrome benötigt [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=de).
