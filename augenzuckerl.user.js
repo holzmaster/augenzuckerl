@@ -40,6 +40,10 @@ addGlobalStyle(`
 	}
 }
 
+a.thumb {
+	backgorund-color: #212121;
+}
+
 #head-content {
 	background-color: revert;
 	width: 1052px;
