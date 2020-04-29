@@ -29,7 +29,7 @@ addGlobalStyle(`
 }
 @supports(backdrop-filter: blur()) {
 	#head {
-		background-color: rgba(0, 0, 0, 0.55);
+		background-color: rgba(0, 0, 0, 0.4);
 		backdrop-filter: blur(30px);
 	}
 }
