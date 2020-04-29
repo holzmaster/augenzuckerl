@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name		Augenzuckerl
-// @version		1.2.0
+// @version		1.3.0
 // @author		holzmaster
 // @namespace	holzmaster
 // @include		http://pr0gramm.com*
@@ -83,5 +83,9 @@ div.search-row {
 input[type=radio].box-from-label + label::before {
 	border-radius: 8px; /* radio buttons should be round */
 	border-width: 1.4px; /* 1px seems too thin */
+}
+
+.tip-menu::after {
+	top: -8px !important; /* the triangle is off by one on my machine */
 }
 `);
