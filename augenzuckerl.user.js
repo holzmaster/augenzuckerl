@@ -79,4 +79,9 @@ div.search-row {
 		transform: 0;
 	}
 }
+
+input[type=radio].box-from-label + label::before {
+	border-radius: 8px; /* radio buttons should be round */
+	border-width: 1.4px; /* 1px seems too thin */
+}
 `);
