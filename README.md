@@ -1,5 +1,11 @@
 # Augenzuckerl
 Ein bisschen eye candy für das pr0gramm.
+Was es aktuell macht:
+- Leiste mit Blur
+- Thumbnails haben einen dunklen Hintergrund (statt weiß)
+- Runde Radio-Buttons (Checkboxen bleiben eckig)
+- Andere Aufklapp-Animation der Suche + Schatten und anderem Layout
+- Die Texte der Kennzahlen in den Statistiken sind nicht mehr rot, sondern grau
 
 ![Preview](https://holzmaster.github.io/augenzuckerl/augenzuckerl.webp)
 
