@@ -35,7 +35,8 @@ addGlobalStyle(`
 }
 
 a.thumb {
-	backgorund-color: #212121;
+	/* fix to make not-yet-loaded thumbnails not appear white */
+	background-color: #212121;
 }
 
 #head-content {
