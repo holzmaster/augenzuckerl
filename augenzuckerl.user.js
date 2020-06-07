@@ -34,12 +34,6 @@ addGlobalStyle(`
 	}
 }
 
-@media only screen and (min-width: 600px) {
-	#head {
-		box-shadow: rgba(0, 0, 0, 0.55) 0px 20px 20px -10px;
-	}
-}
-
 a.thumb {
 	backgorund-color: #212121;
 }
