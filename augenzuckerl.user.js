@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name		Augenzuckerl
-// @version		1.7.0
-// @author		holzmaster
-// @namespace	holzmaster
-// @include		https://pr0gramm.com*
-// @updateURL	https://holzmaster.github.io/augenzuckerl/augenzuckerl.user.js
-// @downloadURL	https://holzmaster.github.io/augenzuckerl/augenzuckerl.user.js
-// @icon		https://pr0gramm.com/media/pr0gramm-favicon.png
-// @grant		none
+// @name        Augenzuckerl
+// @version     1.7.0
+// @author      holzmaster
+// @namespace   holzmaster
+// @include     https://pr0gramm.com*
+// @updateURL   https://holzmaster.github.io/augenzuckerl/augenzuckerl.user.js
+// @downloadURL https://holzmaster.github.io/augenzuckerl/augenzuckerl.user.js
+// @icon        https://pr0gramm.com/media/pr0gramm-favicon.png
+// @grant       none
 // ==/UserScript==
 
 function addGlobalStyle(css) {
