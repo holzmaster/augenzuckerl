@@ -28,7 +28,7 @@ addGlobalStyle(`
 }
 @supports(backdrop-filter: blur()) {
 	#head {
-		background-color: rgba(0, 0, 0, 0.6);
+		background-color: rgba(0, 0, 0, 0.58);
 		backdrop-filter: blur(30px);
 	}
 }
@@ -76,7 +76,7 @@ div.search-row {
 
 input[type=radio].box-from-label + label::before {
 	border-radius: 8px; /* radio buttons should be round */
-	border-width: 1.4px; /* 1px seems too thin */
+	border-width: 1.45px; /* 1px seems too thin */
 }
 
 .tip-menu::after {
