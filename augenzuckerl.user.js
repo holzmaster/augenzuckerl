@@ -63,6 +63,10 @@ div.search-row {
 	animation-timing-function: cubic-bezier(.19 ,1, .22, 1);
 }
 
+#filter-save {
+	margin: 0;
+} 
+
 @keyframes popup-fadein {
 	0% {
 		opacity: 0;
