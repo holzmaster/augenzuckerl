@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Augenzuckerl
-// @version     1.8.0
+// @version     1.8.1
 // @author      holzmaster
 // @namespace   holzmaster
 // @include     https://pr0gramm.com*
