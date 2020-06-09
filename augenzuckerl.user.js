@@ -19,7 +19,7 @@ function addGlobalStyle(css) {
 
 addGlobalStyle(`
 #head {
-	width: revert !important;
+	width: 100% !important;
 
 	display: flex;
 	justify-content: center;
@@ -39,7 +39,7 @@ a.thumb {
 }
 
 #head-content {
-	background-color: revert;
+	background-color: transparent;
 	width: 1052px;
 }
 
