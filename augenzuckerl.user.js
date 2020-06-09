@@ -3,11 +3,10 @@
 // @version		1.7.0
 // @author		holzmaster
 // @namespace	holzmaster
-// @include		http://pr0gramm.com*
 // @include		https://pr0gramm.com*
 // @updateURL	https://holzmaster.github.io/augenzuckerl/augenzuckerl.user.js
 // @downloadURL	https://holzmaster.github.io/augenzuckerl/augenzuckerl.user.js
-// @icon		http://pr0gramm.com/media/pr0gramm-favicon.png
+// @icon		https://pr0gramm.com/media/pr0gramm-favicon.png
 // @grant		none
 // ==/UserScript==
 
