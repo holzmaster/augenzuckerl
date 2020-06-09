@@ -10,11 +10,10 @@ Was es aktuell macht:
 ![Preview](https://holzmaster.github.io/augenzuckerl/augenzuckerl.webp)
 
 ## Installation
-Braucht Chrome oder Firefox 70+ mit `layout.css.backdrop-filter.enabled` auf `true`.
+Braucht Chrome oder Firefox 77+:
 1. Browser einrichten
-  - Firefox benötigt [Greasemonkey](https://addons.mozilla.org/de/firefox/addon/greasemonkey/).
-  - Chrome benötigt [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=de).
-  - IE benötigt einen kompetenten Benutzer (nicht nachinstallierbar).
+  - Firefox benötigt [Greasemonkey](https://addons.mozilla.org/de/firefox/addon/greasemonkey/) oder Ähnliches.
+  - Chrome benötigt [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=de) oder Ähnliches.
 2. Skript hierüber installieren (klick oder kopieren und in Adressleiste einfügen oder so):
   [`https://holzmaster.github.io/augenzuckerl/augenzuckerl.user.js`](https://holzmaster.github.io/augenzuckerl/augenzuckerl.user.js)
 3. Beim pr0gramm F5 drücken.
