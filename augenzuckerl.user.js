@@ -28,7 +28,7 @@ addGlobalStyle(`
 }
 @supports(backdrop-filter: blur()) {
 	#head {
-		background-color: rgba(0, 0, 0, 0.58);
+		background-color: rgba(0, 0, 0, 0.58) !important;
 		backdrop-filter: blur(30px);
 	}
 }
