@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Augenzuckerl
-// @version     1.8.3
+// @version     1.9.0
 // @author      holzmaster
 // @namespace   holzmaster
 // @include     https://pr0gramm.com*
@@ -31,11 +31,6 @@ addGlobalStyle(`
 		background-color: rgba(0, 0, 0, 0.58) !important;
 		backdrop-filter: blur(30px);
 	}
-}
-
-a.thumb {
-	/* fix to make not-yet-loaded thumbnails not appear white */
-	background-color: #212121;
 }
 
 #head-content {
