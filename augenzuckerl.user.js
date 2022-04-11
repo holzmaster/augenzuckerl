@@ -38,44 +38,6 @@ addGlobalStyle(`
 	width: 1052px;
 }
 
-.search-form {
-	padding-top: 18px;
-}
-div.search-row {
-	margin: 0 15px 18px 15px !important;
-}
-
-.tip-menu-inner {
-	padding: 0;
-}
-.tip-menu {
-	background-color: black;
-	filter: drop-shadow(0 20px 30px #000);
-}
-
-.tip-menu[style*="block"] {
-	animation: popup-fadein 0.125s;
-	animation-timing-function: cubic-bezier(.19 ,1, .22, 1);
-}
-
-#filter-save {
-	margin: 0;
-} 
-
-@keyframes popup-fadein {
-	0% {
-		opacity: 0;
-		transform: translateY(50px);
-	}
-	100% {
-		opacity: 1;
-		transform: 0;
-	}
-}
-
-.tip-menu::after {
-	top: -8px !important; /* the triangle is off by one on my machine */
-}
 
 .subtitle {
 	color: #888; /* the original uses the primary color everywhere, which is pretty heavy */
