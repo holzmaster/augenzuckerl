@@ -5,7 +5,7 @@ Was es aktuell macht:
 - Andere Aufklapp-Animation der Suche + Schatten und anderem Layout
 - Die Texte der Kennzahlen in den Statistiken sind nicht mehr rot, sondern grau
 
-![Preview](https://holzmaster.github.io/augenzuckerl/augenzuckerl.webp)
+https://holzmaster.github.io/augenzuckerl/augenzuckerl.webp
 
 ## Installation
 Braucht Chrome oder Firefox 70+:
